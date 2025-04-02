@@ -34,7 +34,7 @@
 
    ```bash
    pip install -r requirements.txt
- ```
+   ```
 
 2. Заполни параметры подключения и токены в weekly_report.py
 
